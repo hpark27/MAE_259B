@@ -1,1 +1,2 @@
-MAE 259B project proposal
+# MAE_259B
+Project proposal
